@@ -337,3 +337,12 @@ Pylint
 ------
 
 Pylint is a tool for doing some static analysis in Python code.
+
+For Beginners
+^^^^^^^^^^^^^
+
+Pylint can be useful to a beginner because it points out code that violates coding standards and may cause problems later.
+
+In other words, how not to write python code.
+
+
